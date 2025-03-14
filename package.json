@@ -1,0 +1,26 @@
+{
+  "name": "merm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcRipollFabrega/MERM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcRipollFabrega/MERM/issues"
+  },
+  "homepage": "https://github.com/MarcRipollFabrega/MERM#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.13.0",
+    "nodemon": "^3.1.9"
+  }
+}
